@@ -22,7 +22,7 @@
 
 ### ABOUT ME
 
-- **Looking to work on position:**Front-end  Expert
+- **Looking to work on position:**Front-end Expert
 - **Interested in:** Responsive Design, MERN stack, Webpack, Wrodpress.
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
@@ -243,84 +243,44 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/hirakawa0215/Portfolio"><b>Portfolio website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Portfolio?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Portfolio?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Portfolio?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/FrontendPotfolio"><b>FrontendPotfolio</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/FrontendPotfolio?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/FrontendPotfolio?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/FrontendPotfolio?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/hirakawa0215/chat-grpc"><b>Chat gRPC application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/chat-grpc?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/chat-grpc?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/chat-grpc?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/digital_dental_radiology_site"><b>Digital Dental Radiology site</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/digital_dental_radiology_site?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/digital_dental_radiology_site?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/digital_dental_radiology_site?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/digital_dental_radiology_site?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/digital_dental_radiology_site?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/hirakawa0215/tech-automator"><b>Technology automator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/tech-automator?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/tech-automator?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/tech-automator?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/e-commerce"><b>E-commerce</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/e-commerce?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/e-commerce?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/e-commerce?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/e-commerce?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/e-commerce?"/></td>
       </tr>
       <tr>
-	    <td><a href="https://github.com/hirakawa0215/tech-cheatsheets"><b>Technology cheat sheets</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/tech-cheatsheets?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/tech-cheatsheets?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/tech-cheatsheets?"/></td>
+	    <td><a href="https://github.com/hirakawa0215/Standard-MERN-Project"><b>Standard-MERN-Project</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Standard-MERN-Project?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Standard-MERN-Project?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Standard-MERN-Project?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Standard-MERN-Project?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Standard-MERN-Project?"/></td>
       </tr>
       <tr>
-	    <td><a href="https://github.com/hirakawa0215/ansible-web-app-deployment"><b>Ansible auto deploy Web application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/ansible-web-app-deployment?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/ansible-web-app-deployment?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/ansible-web-app-deployment?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/hirakawa0215/linux-auto-setup"><b>Linux auto setup</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/linux-auto-setup?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/linux-auto-setup?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/linux-auto-setup?"/></td>
-      </tr>
-       <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Gmail Remote Control"><b>Gmail remote control application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Gmail-Remote-Control?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Gmail-Remote-Control?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Gmail-Remote-Control?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Jurassic-Adventure-game"><b>Jurassic Adventure game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Jurassic-Adventure-game?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Safety-application"><b>Safety application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Safety-application?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Safety-application?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Safety-application?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Storage-File-System.git"><b>Storage File System application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Storage-File-System?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Storage-File-System?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Storage-File-System?"/></td>
+	    <td><a href="https://github.com/hirakawa0215/Bookstore"><b>Bookstore</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Bookstore?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Bookstore?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Bookstore?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Bookstore?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Bookstore?"/></td>
       </tr>
     </tbody>
   </table>
