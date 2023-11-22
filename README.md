@@ -22,7 +22,7 @@
 
 ### ABOUT ME
 
-- **Looking to work on position:**Front-end Expert
+- **Looking to work on position:** Passionate Front-end Expert
 - **Interested in:** Responsive Design, MERN stack, Webpack, Wrodpress.
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
