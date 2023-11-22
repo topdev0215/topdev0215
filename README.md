@@ -4,21 +4,26 @@
 </h1>
 
 <div align="center"> 
-    <a href="https://github.com/hirakawa0215?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hirakawa?color=4C1&logo=github"></a>
-    <a href="https://github.com/hirakawa/hirakawa" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa/hirakawa?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/hirakawa0215?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa?color=4C1&logo=github"></a>
+    <!-- github -->
+    <a href="https://github.com/hirakawa/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa/hirakawa?label=Profile%20update&style=fflat-square"></a>
 </div>
-
 <div align="center">
-    <a href="https://hirakawa.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
+<!-- website -->
+    <a href="https://hirakawa.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white">
+    </a>
+    <a href="https://discord.gg/AWp6p8GVYb"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="mailto:quannguyenthanh558@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="https://join.slack.com/t/hirakawaworkspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
+    <a href="mailto:hirakawatsuneteru@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
 ### ABOUT ME
 
-- **Looking to work on position:** DevOps Engineer
-- **Interested in:** Automation, Cyber Security and Web Development.
+- **Looking to work on position:**Front-end  Expert
+- **Interested in:** Responsive Design, MERN stack, Webpack, Wrodpress.
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
 
@@ -203,8 +208,8 @@
     <br />
     <p align="center">
         <a href="https://github.com/hirakawa0215">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuanBlue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuanBlue&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirakawa0215&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirakawa0215&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -214,7 +219,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
   
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QuanBlue&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirakawa0215&hide_border=true" />
 </details>
 
 <details>
@@ -238,52 +243,52 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/QuanBlue/Portfolio"><b>Portfolio website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/Portfolio?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/Portfolio?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/Portfolio?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/Portfolio?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/Portfolio"><b>Portfolio website</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Portfolio?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Portfolio?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Portfolio?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Portfolio?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Portfolio?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/quanblue/chat-grpc"><b>Chat gRPC application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/chat-grpc?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/chat-grpc?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/chat-grpc?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/chat-grpc?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/chat-grpc"><b>Chat gRPC application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/chat-grpc?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/chat-grpc?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/chat-grpc?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/chat-grpc?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/chat-grpc?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/quanblue/tech-automator"><b>Technology automator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/tech-automator?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/tech-automator?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/tech-automator?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/tech-automator?"/></td>
+	      <td><a href="https://github.com/hirakawa0215/tech-automator"><b>Technology automator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/tech-automator?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/tech-automator?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/tech-automator?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/tech-automator?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/tech-automator?"/></td>
       </tr>
       <tr>
-	    <td><a href="https://github.com/quanblue/tech-cheatsheets"><b>Technology cheat sheets</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/tech-cheatsheets?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/tech-cheatsheets?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/tech-cheatsheets?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/tech-cheatsheets?"/></td>
+	    <td><a href="https://github.com/hirakawa0215/tech-cheatsheets"><b>Technology cheat sheets</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/tech-cheatsheets?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/tech-cheatsheets?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/tech-cheatsheets?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/tech-cheatsheets?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/tech-cheatsheets?"/></td>
       </tr>
       <tr>
-	    <td><a href="https://github.com/quanblue/ansible-web-app-deployment"><b>Ansible auto deploy Web application</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/ansible-web-app-deployment?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/ansible-web-app-deployment?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/ansible-web-app-deployment?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/ansible-web-app-deployment?"/></td>
+	    <td><a href="https://github.com/hirakawa0215/ansible-web-app-deployment"><b>Ansible auto deploy Web application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/ansible-web-app-deployment?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/ansible-web-app-deployment?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/ansible-web-app-deployment?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/ansible-web-app-deployment?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/ansible-web-app-deployment?"/></td>
       </tr>
       <tr>
-	    <td><a href="https://github.com/quanblue/linux-auto-setup"><b>Linux auto setup</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/quanblue/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/quanblue/linux-auto-setup?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/quanblue/linux-auto-setup?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/quanblue/linux-auto-setup?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/quanblue/linux-auto-setup?"/></td>
+	    <td><a href="https://github.com/hirakawa0215/linux-auto-setup"><b>Linux auto setup</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/linux-auto-setup?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/linux-auto-setup?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/linux-auto-setup?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/linux-auto-setup?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/linux-auto-setup?"/></td>
       </tr>
        <tr>
 	      <td><a href="https://github.com/HCMUS-Project/Gmail Remote Control"><b>Gmail remote control application</b></a></td>
