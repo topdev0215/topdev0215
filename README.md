@@ -303,7 +303,3 @@
 </div>
 
 
-
-<div align="center">
-    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-</div>
