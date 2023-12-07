@@ -226,7 +226,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/hirakawa0215/FrontendPotfolio"><b>FrontendPotfolio</b></a></td>
+	      <td><a href="https://hirakawas-fantastic-site.webflow.io/"><b>FrontendPotfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/FrontendPotfolio?"/></td>
