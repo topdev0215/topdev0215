@@ -23,7 +23,7 @@
 ### ABOUT ME
 
 - **Looking to work on position:** Passionate Web Developer
-- **Interested in:** Responsive Design, MERN stack, Webpack, Data Scraping, Webflow, Wordpress, Go, Ruby on Rails, Rust.
+- **Interested in:** Responsive Design, MERN stack, Webpack, GraphQL Data Scraping, Webflow, Wordpress, Go, Ruby on Rails, Rust.
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
 
@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="300">
       <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="1500" height="180" />
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
         <br>GraphQL
         </a>
     </td>
