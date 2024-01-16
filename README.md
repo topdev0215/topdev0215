@@ -4,10 +4,10 @@
 </h1>
 
 <div align="center"> 
-    <a href="https://github.com/hirakawa0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa?color=4C1&logo=github"></a>
+    <a href="http://github.com/hirakawa0215?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa0215?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="https://github.com/hirakawa/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa/hirakawa?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/hirakawa/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa0215/hirakawa0215?label=Profile%20update&style=fflat-square"></a>
 </div>
 <div align="center">
 <!-- website -->
@@ -23,7 +23,7 @@
 ### ABOUT ME
 
 - **Looking to work on position:** Passionate Web Developer
-- **Interested in:** Responsive Design, MERN stack, Webpack, Wrodpress.
+- **Interested in:** Responsive Design, MERN stack, Webpack, Data Scraping, Webflow, Wordpress, Go, Ruby on Rails, Rust.
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
 
