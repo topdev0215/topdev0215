@@ -43,6 +43,19 @@
     </tr>
 </table>
 
+### CERTIFICATIONS
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="1500" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+  </tr>
+</table>
+
 ### TECHNOLOGY
 
 <table align="center">
