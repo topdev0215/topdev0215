@@ -9,7 +9,7 @@
     <a href="http://github.com/hirakawa0215?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa0215?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/hirakawa/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa0215/hirakawa0215?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/hirakawa0215/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa0215/hirakawa0215?label=Profile%20update&style=fflat-square"></a>
 </div>
 <div align="center">
 <!-- website -->
