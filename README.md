@@ -78,7 +78,7 @@
     <td align="center" width="300">
       <a href='https://www.coursera.org/account/accomplishments/verify/JBM73C3QDGTA' target="_blank" role="button">
           <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Plotting, Charting & Data Representation in Python
+        <br>Plotting, Charting & Data Representation
         </a>
     </td>
   </tr>
@@ -92,7 +92,7 @@
     <td align="center" width="300">
       <a href='https://coursera.org/verify/specialization/ZL7897WHQSQH' target="_blank" role="button">
           <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="150" />
-        <br>Architecting with Google Cloud Platform
+        <br>Architecting with Google Cloud
         </a>
     </td>
     <td align="center" width="300">
