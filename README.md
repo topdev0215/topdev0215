@@ -34,10 +34,12 @@
 <table style="border-collapse: collapse;">
     <tr>
         <td align="center">
-            <img src="https://akatech.tech/upl/ul/a98961618fcc26c7blist.jpg" alt="hcmus logo" width="120px">
+        <a href="https://www.uniroma1.it/en/pagina-strutturale/home">
+            <img src="./assets/logo.png" alt="hcmus logo" width="120px">
+        </a>
         </td>
         <td>
-            <h3 style="margin: 0;">Tokyo Institute of Technology
+            <h3 style="margin: 0;">Sapienza University of Rome
 </h3> 
             <sup style="color: gray;">2011 - 2015</sup>
             <p>Bachelor of <b>Computer Network and Information Security</b></p>
@@ -49,6 +51,94 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="300">
+      <a href='https://coursera.org/verify/BSZB95S5D29S' target="_blank" role="button">
+          <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="180" />
+        <br>Crash Course in Data Science
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://coursera.org/verify/specialization/LRZEUJUL7UTF' target="_blank" role="button">
+          <img src="./assets/certificates/Machine Learning.png" alt="graphql certification" width="2000" height="180" />
+        <br>Machine Learning with TensorFlow
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.coursera.org/account/accomplishments/verify/LXBADF958QSJ' target="_blank" role="button">
+          <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="180" />
+        <br>Algorithms for DNA Sequencing
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.coursera.org/account/accomplishments/specialization/F56GEH47VD4P' target="_blank" role="button">
+          <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="180" />
+        <br>Applied Data Science with Python
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.coursera.org/account/accomplishments/verify/JBM73C3QDGTA' target="_blank" role="button">
+          <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="180" />
+        <br>Plotting, Charting & Data Representation in Python
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href='https://coursera.org/verify/UVDLJEQTQCVA' target="_blank" role="button">
+          <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="180" />
+        <br>Applied Text Mining in Python
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://coursera.org/verify/specialization/ZL7897WHQSQH' target="_blank" role="button">
+          <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="180" />
+        <br>Architecting with Google Cloud Platform
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
+        </a>
+    </td>
     <td align="center" width="300">
       <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
           <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
