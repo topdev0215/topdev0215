@@ -1,15 +1,15 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Haruki Hirakawa</b> (hirakawa0215)
+    I'm <b>Alessandro Corradini</b> (topdev0215)
 </h1>
 
 <div align="center"> 
-    <a href="http://github.com/hirakawa0215?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=hirakawa0215&color=blue"></a>
-    <a href="http://github.com/hirakawa0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa0215?color=4C1&logo=github"></a>
+    <a href="http://github.com/topdev0215?tab=followers">
+    <img alt="Followers" src="https://komarev.com/ghpvc/?username=topdev0215&color=blue"></a>
+    <a href="http://github.com/topdev0215?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/topdev0215?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/hirakawa0215/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa0215/hirakawa0215?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/topdev0215/topdev0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
 </div>
 <div align="center">
 <!-- website -->
@@ -18,14 +18,14 @@
     <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+YQSN2GPCwrBiOTRh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
     <a href="https://join.slack.com/t/hirakawaworkspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
-    <a href="mailto:hirakawatsuneteru@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="mailto:hirakawa000215@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
 ### ABOUT ME
 
 - **Looking to work on position:** Senior AI developer
-- **Interested in:** AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Ruby on Rails, GraphQL, Web3, Webflow, Wordpress)
+- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Ruby on Rails, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** tabletenis, badminton
 - **Email:** &nbsp; <a href="mailto:hirakawa000215@gmail.com" target="_blank">hirakawa000215@gmail.com</a>
 
@@ -221,29 +221,29 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=hirakawa0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirakawa0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/hirakawa0215?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hirakawa0215&theme=onestar&no-frame=true&column=3&row=2"  width="80%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/topdev0215?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=topdev0215&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
 
-
+<p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
+</p>
 
 ### PROJECTS AND DEV STUFF
 <b>⚡ Github Stats</b>
     <br />
     <p align="center">
-        <a href="https://github.com/hirakawa0215?tab=repositories">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirakawa0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirakawa0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <a href="https://github.com/topdev0215?tab=repositories">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -252,12 +252,12 @@
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirakawa0215&theme=gotham&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hirakawa0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=topdev0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
