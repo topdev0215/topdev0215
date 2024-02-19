@@ -53,31 +53,31 @@
   <tr>
     <td align="center" width="300">
       <a href='https://coursera.org/verify/BSZB95S5D29S' target="_blank" role="button">
-          <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="150" />
         <br>Crash Course in Data Science
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://coursera.org/verify/specialization/LRZEUJUL7UTF' target="_blank" role="button">
-          <img src="./assets/certificates/Machine Learning.png" alt="graphql certification" width="2000" height="180" />
-        <br>Machine Learning with TensorFlow
+      <a href='https://github.com/topdev0215' target="_blank" role="button">
+          <img src="./assets/certificates/google formazione.png" alt="Training in digital marketing" width="2000" height="150" />
+        <br>Training in digital marketing
         </a>
     </td>
     <td align="center" width="300">
       <a href='https://www.coursera.org/account/accomplishments/verify/LXBADF958QSJ' target="_blank" role="button">
-          <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="150" />
         <br>Algorithms for DNA Sequencing
         </a>
     </td>
     <td align="center" width="300">
       <a href='https://www.coursera.org/account/accomplishments/specialization/F56GEH47VD4P' target="_blank" role="button">
-          <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="150" />
         <br>Applied Data Science with Python
         </a>
     </td>
     <td align="center" width="300">
       <a href='https://www.coursera.org/account/accomplishments/verify/JBM73C3QDGTA' target="_blank" role="button">
-          <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="150" />
         <br>Plotting, Charting & Data Representation in Python
         </a>
     </td>
@@ -85,68 +85,70 @@
   <tr>
     <td align="center" width="300">
       <a href='https://coursera.org/verify/UVDLJEQTQCVA' target="_blank" role="button">
-          <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="150" />
         <br>Applied Text Mining in Python
         </a>
     </td>
     <td align="center" width="300">
       <a href='https://coursera.org/verify/specialization/ZL7897WHQSQH' target="_blank" role="button">
-          <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="180" />
+          <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="150" />
         <br>Architecting with Google Cloud Platform
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
+      <a href='https://coursera.org/verify/S9WNZVZUD4P3' target="_blank" role="button">
+          <img src="./assets/certificates/Architecting with Google Kubernetes Engine(workloads).png" alt="graphql certification" width="2000" height="150" />
+        <br>Google Kubernetes Engine
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
+      <a href='https://coursera.org/verify/GD9DATG8RPRA' target="_blank" role="button">
+          <img src="./assets/certificates/convolutional neural networks.png" alt="graphql certification" width="2000" height="150" />
+        <br>Convolutional Neural Networks
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
+      <a href='https://www.coursera.org/account/accomplishments/specialization/QG2MRYRGZ7U2' target="_blank" role="button">
+          <img src="./assets/certificates/deep learning.png" alt="graphql certification" width="2000" height="150" />
+        <br>Deep Learning Certification
         </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
+      <a href='https://coursera.org/verify/VK5M6SKZFX58' target="_blank" role="button">
+          <img src="./assets/certificates/graph analytics for big data.png" alt="Graph Analytics for Big Data" width="2000" height="150" />
+        <br>Graph Analytics for Big Data
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https:// coursera.org/verify/ZNGQXQXMR3WY' target="_blank" role="button">
+          <img src="./assets/certificates/image and video processing.png" alt="Image and Video Processing" width="2000" height="150" />
+        <br>Image and Video Processing
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https:// coursera.org/verify/8ZEHM4P5U37Y' target="_blank" role="button">
+          <img src="./assets/certificates/leveraging unstructured data.png" alt="Leveraging Unstructured Data" width="2000" height="150" />
+        <br>Leveraging Unstructured Data
+        </a>
+    </td>
+    <td align="center" width="300">
+      <a href='https://courses.edx.org/certificates/3c6d275a88c2477e916be282e6495b63' target="_blank" role="button">
+          <img src="./assets/certificates/foundation of data analysis.png" alt="Foundations of Data Analysis" width="2000" height="150" />
+        <br>Foundations of Data Analysis
         </a>
     </td>
     <td align="center" width="300">
       <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
+          <img src="./assets/certificates/graph developer.png" alt="graphql certification" width="2000" height="150" />
+        <br>Graph Developer Certification
         </a>
     </td>
   </tr>
 </table>
+
+✅You can find all my certifications in 🥉https://github.com/topdev0215/My-Certifications🥇
 
 ### TECHNOLOGY
 
@@ -332,8 +334,8 @@
     <br />
     <p align="center">
         <a href="https://github.com/topdev0215?tab=repositories">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -342,7 +344,7 @@
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
 
 
 
