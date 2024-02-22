@@ -13,12 +13,12 @@
 </div>
 <div align="center">
 <!-- website -->
-    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    <a href="https://corradini.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
     <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+YQSN2GPCwrBiOTRh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="https://join.slack.com/t/hirakawaworkspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
-    <a href="mailto:hirakawa000215@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="https://join.slack.com/t/topdev0215/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
+    <a href="mailto:a.corradini@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
@@ -27,7 +27,7 @@
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Ruby on Rails, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** tabletenis, badminton
-- **Email:** &nbsp; <a href="mailto:hirakawa000215@gmail.com" target="_blank">hirakawa000215@gmail.com</a>
+- **Email:** &nbsp; <a href="mailto:a.corradini0215@gmail.com" target="_blank">a.corradini0215@gmail.com</a>
 
 ### STUDY
 
