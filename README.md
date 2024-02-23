@@ -13,6 +13,8 @@
 </div>
 <div align="center">
 <!-- website -->
+    <a href="https://https://www.linkedin.com/in/alessandro-corradini-54b3492b6//"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
+    </a>
     <a href="https://corradini.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
     <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
