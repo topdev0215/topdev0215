@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Alessandro Corradini</b> (topdev0215)
+    I'm <b>Alessandro Corradini<br>Welcome to </b> (topdev0215)
 </h1>
 
 <div align="center"> 
