@@ -1,6 +1,8 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
+
     I'm <b>Alessandro Corradini<br></b> (topdev0215)
+
 </h1>
 
 <div align="center"> 
