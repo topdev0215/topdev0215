@@ -152,7 +152,7 @@
   </tr>
 </table>
 
-✅You can find all my certifications in 🥉https://github.com/topdev0215/My-Certifications🥇
+✅You can find all my certifications in 🥉 https://github.com/topdev0215/My-Certifications 🥇
 
 ### TECHNOLOGY
 
