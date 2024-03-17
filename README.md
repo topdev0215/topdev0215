@@ -30,7 +30,7 @@
 
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
-- **Hobby:** tabletenis, badminton
+- **Hobby:** Football, Swimming
 - **Email:** &nbsp; <a href="mailto:a.corradini0215@gmail.com" target="_blank">a.corradini0215@gmail.com</a>
 
 ### STUDY
