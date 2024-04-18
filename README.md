@@ -21,8 +21,6 @@
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
 
-✅You can find all my certifications in 🥉 https://github.com/topdev0215/My-Certifications 🥇
-
 ### TECHNOLOGY
 
 <table align="center">
