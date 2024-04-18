@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    I'm <b>Alessandro Corradini</b><br />
+    I'm <b>Senior AI Engineer</b><br />
     Welcome to <b>topdev0215</b>
 
 </h1>
@@ -15,14 +15,9 @@
 </div>
 <div align="center">
 <!-- website -->
-    <a href="https://www.linkedin.com/in/alessandro-corradini-54b3492b6/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://a-corradini.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
-    </a>
     <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+YQSN2GPCwrBiOTRh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
     <a href="https://join.slack.com/t/topdev0215/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
-    <a href="mailto:a.corradini@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
@@ -31,126 +26,6 @@
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
-- **Email:** &nbsp; <a href="mailto:a.corradini0215@gmail.com" target="_blank">a.corradini0215@gmail.com</a>
-
-### STUDY
-
-<table style="border-collapse: collapse;">
-    <tr>
-        <td align="center">
-        <a href="https://www.uniroma1.it/en/pagina-strutturale/home">
-            <img src="./assets/logo.png" alt="hcmus logo" width="120px">
-        </a>
-        </td>
-        <td>
-            <h3 style="margin: 0;">Sapienza University of Rome
-</h3> 
-            <sup style="color: gray;">2011 - 2015</sup>
-            <p>Bachelor of <b>Computer Network and Information Security</b></p>
-        </td>
-    </tr>
-</table>
-
-### CERTIFICATIONS
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/BSZB95S5D29S' target="_blank" role="button">
-          <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="150" />
-        <br>Crash Course in Data Science
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://github.com/topdev0215' target="_blank" role="button">
-          <img src="./assets/certificates/google formazione.png" alt="Training in digital marketing" width="2000" height="150" />
-        <br>Training in digital marketing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/verify/LXBADF958QSJ' target="_blank" role="button">
-          <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="150" />
-        <br>Algorithms for DNA Sequencing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/specialization/F56GEH47VD4P' target="_blank" role="button">
-          <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Applied Data Science with Python
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/verify/JBM73C3QDGTA' target="_blank" role="button">
-          <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Plotting, Charting & Data Representation
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/UVDLJEQTQCVA' target="_blank" role="button">
-          <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Applied Text Mining in Python
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/specialization/ZL7897WHQSQH' target="_blank" role="button">
-          <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="150" />
-        <br>Architecting with Google Cloud
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/S9WNZVZUD4P3' target="_blank" role="button">
-          <img src="./assets/certificates/Architecting with Google Kubernetes Engine(workloads).png" alt="graphql certification" width="2000" height="150" />
-        <br>Google Kubernetes Engine
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/GD9DATG8RPRA' target="_blank" role="button">
-          <img src="./assets/certificates/convolutional neural networks.png" alt="graphql certification" width="2000" height="150" />
-        <br>Convolutional Neural Networks
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/specialization/QG2MRYRGZ7U2' target="_blank" role="button">
-          <img src="./assets/certificates/deep learning.png" alt="graphql certification" width="2000" height="150" />
-        <br>Deep Learning Certification
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/VK5M6SKZFX58' target="_blank" role="button">
-          <img src="./assets/certificates/graph analytics for big data.png" alt="Graph Analytics for Big Data" width="2000" height="150" />
-        <br>Graph Analytics for Big Data
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https:// coursera.org/verify/ZNGQXQXMR3WY' target="_blank" role="button">
-          <img src="./assets/certificates/image and video processing.png" alt="Image and Video Processing" width="2000" height="150" />
-        <br>Image and Video Processing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https:// coursera.org/verify/8ZEHM4P5U37Y' target="_blank" role="button">
-          <img src="./assets/certificates/leveraging unstructured data.png" alt="Leveraging Unstructured Data" width="2000" height="150" />
-        <br>Leveraging Unstructured Data
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://courses.edx.org/certificates/3c6d275a88c2477e916be282e6495b63' target="_blank" role="button">
-          <img src="./assets/certificates/foundation of data analysis.png" alt="Foundations of Data Analysis" width="2000" height="150" />
-        <br>Foundations of Data Analysis
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
-          <img src="./assets/certificates/graph developer.png" alt="graphql certification" width="2000" height="150" />
-        <br>Graph Developer Certification
-        </a>
-    </td>
-  </tr>
-</table>
 
 ✅You can find all my certifications in 🥉 https://github.com/topdev0215/My-Certifications 🥇
 
