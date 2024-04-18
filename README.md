@@ -13,12 +13,6 @@
     <!-- github -->
     <a href="http://github.com/topdev0215/topdev0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
 </div>
-<div align="center">
-<!-- website -->
-    <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://t.me/+YQSN2GPCwrBiOTRh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="https://join.slack.com/t/topdev0215/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
-</div>
 <br>
 
 ### ABOUT ME
